@@ -1,0 +1,39 @@
+*{
+    background-color: lightblue;
+    font-family: monospace, sans-serif, serif;
+}
+header{
+    text-align: center;
+}
+.box{
+    display: inline-block;
+    border: solid;
+    width: 20%;
+    text-align: center;
+    margin: 14px;
+    background-color: lightcyan;
+}
+p{
+    background-color: lightcyan;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table, th, td{
+    border: solid;
+    background-color: lightcyan;
+}
+table{
+    margin: 0 auto;
+    width: 90%;
+    height: 300px;
+}
+footer p{
+    text-align: center;
+}
+h2{
+    text-align:center;
+    background-color: greenyellow;
+}
